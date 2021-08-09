@@ -1,0 +1,73 @@
+Paragraph number: 1
+Sentences in Paragraph 1: 4
+Words in Sentence no. 1: 5
+Characters in Word no. 1 in Sentence no. 1: 5
+Characters in Word no. 2 in Sentence no. 1: 2
+Characters in Word no. 3 in Sentence no. 1: 4
+Characters in Word no. 4 in Sentence no. 1: 2
+Characters in Word no. 5 in Sentence no. 1: 3
+Words in Sentence no. 2: 5
+Characters in Word no. 1 in Sentence no. 2: 7
+Characters in Word no. 2 in Sentence no. 2: 2
+Characters in Word no. 3 in Sentence no. 2: 5
+Characters in Word no. 4 in Sentence no. 2: 8
+Characters in Word no. 5 in Sentence no. 2: 7
+Words in Sentence no. 3: 6
+Characters in Word no. 1 in Sentence no. 3: 5
+Characters in Word no. 2 in Sentence no. 3: 5
+Characters in Word no. 3 in Sentence no. 3: 3
+Characters in Word no. 4 in Sentence no. 3: 5
+Characters in Word no. 5 in Sentence no. 3: 7
+Characters in Word no. 6 in Sentence no. 3: 7
+Words in Sentence no. 4: 7
+Characters in Word no. 1 in Sentence no. 4: 2
+Characters in Word no. 2 in Sentence no. 4: 4
+Characters in Word no. 3 in Sentence no. 4: 3
+Characters in Word no. 4 in Sentence no. 4: 7
+Characters in Word no. 5 in Sentence no. 4: 4
+Characters in Word no. 6 in Sentence no. 4: 5
+Characters in Word no. 7 in Sentence no. 4: 4
+Paragraph number: 2
+Sentences in Paragraph 2: 2
+Words in Sentence no. 1: 9
+Characters in Word no. 1 in Sentence no. 1: 2
+Characters in Word no. 2 in Sentence no. 1: 3
+Characters in Word no. 3 in Sentence no. 1: 4
+Characters in Word no. 4 in Sentence no. 1: 7
+Characters in Word no. 5 in Sentence no. 1: 3
+Characters in Word no. 6 in Sentence no. 1: 3
+Characters in Word no. 7 in Sentence no. 1: 4
+Characters in Word no. 8 in Sentence no. 1: 3
+Characters in Word no. 9 in Sentence no. 1: 5
+Words in Sentence no. 2: 7
+Characters in Word no. 1 in Sentence no. 2: 4
+Characters in Word no. 2 in Sentence no. 2: 2
+Characters in Word no. 3 in Sentence no. 2: 3
+Characters in Word no. 4 in Sentence no. 2: 3
+Characters in Word no. 5 in Sentence no. 2: 2
+Characters in Word no. 6 in Sentence no. 2: 6
+Characters in Word no. 7 in Sentence no. 2: 9
+Paragraph number: 3
+Sentences in Paragraph 3: 2
+Words in Sentence no. 1: 4
+Characters in Word no. 1 in Sentence no. 1: 1
+Characters in Word no. 2 in Sentence no. 1: 2
+Characters in Word no. 3 in Sentence no. 1: 6
+Characters in Word no. 4 in Sentence no. 1: 3
+Words in Sentence no. 2: 16
+Characters in Word no. 1 in Sentence no. 2: 2
+Characters in Word no. 2 in Sentence no. 2: 1
+Characters in Word no. 3 in Sentence no. 2: 4
+Characters in Word no. 4 in Sentence no. 2: 4
+Characters in Word no. 5 in Sentence no. 2: 5
+Characters in Word no. 6 in Sentence no. 2: 4
+Characters in Word no. 7 in Sentence no. 2: 4
+Characters in Word no. 8 in Sentence no. 2: 9
+Characters in Word no. 9 in Sentence no. 2: 2
+Characters in Word no. 10 in Sentence no. 2: 4
+Characters in Word no. 11 in Sentence no. 2: 2
+Characters in Word no. 12 in Sentence no. 2: 4
+Characters in Word no. 13 in Sentence no. 2: 6
+Characters in Word no. 14 in Sentence no. 2: 4
+Characters in Word no. 15 in Sentence no. 2: 2
+Characters in Word no. 16 in Sentence no. 2: 4
